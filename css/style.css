@@ -34,13 +34,16 @@ h1 {
     text-align: center;
 }
 
+.row{
+    width: 100%;
+}
+
 .card {
     float: left;
     width: 30%;
     margin-left: 15%;
     max-width: 260px;
-    min-width: 150px
-    
+    min-width: 150px;
 }
 
 .card a {
